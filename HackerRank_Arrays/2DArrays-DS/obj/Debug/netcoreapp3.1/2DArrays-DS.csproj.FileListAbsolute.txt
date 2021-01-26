@@ -1,0 +1,13 @@
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\bin\Debug\netcoreapp3.1\2DArrays-DS.exe
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\bin\Debug\netcoreapp3.1\2DArrays-DS.deps.json
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\bin\Debug\netcoreapp3.1\2DArrays-DS.runtimeconfig.json
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\bin\Debug\netcoreapp3.1\2DArrays-DS.runtimeconfig.dev.json
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\bin\Debug\netcoreapp3.1\2DArrays-DS.dll
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\bin\Debug\netcoreapp3.1\2DArrays-DS.pdb
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\obj\Debug\netcoreapp3.1\2DArrays-DS.csprojAssemblyReference.cache
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\obj\Debug\netcoreapp3.1\2DArrays-DS.AssemblyInfoInputs.cache
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\obj\Debug\netcoreapp3.1\2DArrays-DS.AssemblyInfo.cs
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\obj\Debug\netcoreapp3.1\2DArrays-DS.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\obj\Debug\netcoreapp3.1\2DArrays-DS.dll
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\obj\Debug\netcoreapp3.1\2DArrays-DS.pdb
+C:\Users\vikmar\source\repos\HackerRank_Arrays\2DArrays-DS\obj\Debug\netcoreapp3.1\2DArrays-DS.genruntimeconfig.cache
